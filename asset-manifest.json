@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-helloworld/static/css/main.755de8e4.chunk.css",
+    "main.js": "/react-helloworld/static/js/main.30162831.chunk.js",
+    "main.js.map": "/react-helloworld/static/js/main.30162831.chunk.js.map",
+    "runtime-main.js": "/react-helloworld/static/js/runtime-main.f7211d02.js",
+    "runtime-main.js.map": "/react-helloworld/static/js/runtime-main.f7211d02.js.map",
+    "static/js/2.e494a0c8.chunk.js": "/react-helloworld/static/js/2.e494a0c8.chunk.js",
+    "static/js/2.e494a0c8.chunk.js.map": "/react-helloworld/static/js/2.e494a0c8.chunk.js.map",
+    "index.html": "/react-helloworld/index.html",
+    "precache-manifest.bcfb6290b2693de0e78848da45b3a783.js": "/react-helloworld/precache-manifest.bcfb6290b2693de0e78848da45b3a783.js",
+    "service-worker.js": "/react-helloworld/service-worker.js",
+    "static/css/main.755de8e4.chunk.css.map": "/react-helloworld/static/css/main.755de8e4.chunk.css.map",
+    "static/js/2.e494a0c8.chunk.js.LICENSE": "/react-helloworld/static/js/2.e494a0c8.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7211d02.js",
+    "static/js/2.e494a0c8.chunk.js",
+    "static/css/main.755de8e4.chunk.css",
+    "static/js/main.30162831.chunk.js"
+  ]
+}
